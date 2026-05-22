@@ -92,6 +92,11 @@ A collaborative travel planning platform built using modern full-stack technolog
 </div>
 
 ---
+# 🏆 LeetCode Stats
+
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/khusavant?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 # 🏆 Achievements
 
