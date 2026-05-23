@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Khushavant Choudhary</h1>
+<h1 align="center">Hey 👋, I'm Khusavant Choudhary</h1>
 
 <h3 align="center">
 Full-Stack Developer • Backend Enthusiast • Building Real-World Applications
